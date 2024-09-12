@@ -1,0 +1,6 @@
+EcoStep/                 # Root of your repository
+├── src/                 # Directory for source code
+│   ├── main.py          # Main application code
+│   └── database.py      # Database handling code
+├── requirements.txt     # List of dependencies
+└── README.md            # Project documentation
